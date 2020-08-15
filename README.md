@@ -5,4 +5,4 @@ needs requests module
 
 ## How to use
 `python rewritehosts.py`  
-Pass the test on Windows10 and Ubuntu20.04
+Test pass on Windows10 and Ubuntu20.04
