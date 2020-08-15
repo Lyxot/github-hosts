@@ -1,7 +1,7 @@
 # github-hosts
 Auto rewrite hosts to speed up connect to github.com  
-This works with python2 and python3  
-needs requests module
+This script works with python2 and python3  
+Needs `requests` module
 
 ## How to use
 `python rewritehosts.py`  
